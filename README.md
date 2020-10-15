@@ -1,1 +1,1 @@
-# contacts-parser
+# App for parsing contacts information
